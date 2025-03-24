@@ -1,0 +1,612 @@
+[WARN  2025-03-24 오전 12:14:25] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...cope.nvim/lua/telescope/finders/async_oneshot_finder.lua:48: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:14:28] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...cope.nvim/lua/telescope/finders/async_oneshot_finder.lua:48: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:14:28] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...cope.nvim/lua/telescope/finders/async_oneshot_finder.lua:48: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:14:28] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...cope.nvim/lua/telescope/finders/async_oneshot_finder.lua:48: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:14:28] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...cope.nvim/lua/telescope/finders/async_oneshot_finder.lua:48: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:14:45] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...elescope.nvim/lua/telescope/finders/async_job_finder.lua:49: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:15:23] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...cope.nvim/lua/telescope/finders/async_oneshot_finder.lua:48: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:15:25] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...cope.nvim/lua/telescope/finders/async_oneshot_finder.lua:48: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:15:26] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...cope.nvim/lua/telescope/finders/async_oneshot_finder.lua:48: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:15:26] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...cope.nvim/lua/telescope/finders/async_oneshot_finder.lua:48: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:15:27] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...cope.nvim/lua/telescope/finders/async_oneshot_finder.lua:48: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:15:28] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...cope.nvim/lua/telescope/finders/async_oneshot_finder.lua:48: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:15:29] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...cope.nvim/lua/telescope/finders/async_oneshot_finder.lua:48: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:15:29] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...cope.nvim/lua/telescope/finders/async_oneshot_finder.lua:48: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:15:29] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...cope.nvim/lua/telescope/finders/async_oneshot_finder.lua:48: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:15:30] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...cope.nvim/lua/telescope/finders/async_oneshot_finder.lua:48: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:15:30] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...cope.nvim/lua/telescope/finders/async_oneshot_finder.lua:48: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:15:30] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...cope.nvim/lua/telescope/finders/async_oneshot_finder.lua:48: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:15:30] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...cope.nvim/lua/telescope/finders/async_oneshot_finder.lua:48: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:15:30] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...cope.nvim/lua/telescope/finders/async_oneshot_finder.lua:48: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:15:30] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...cope.nvim/lua/telescope/finders/async_oneshot_finder.lua:48: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:15:31] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...cope.nvim/lua/telescope/finders/async_oneshot_finder.lua:48: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:15:31] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...cope.nvim/lua/telescope/finders/async_oneshot_finder.lua:48: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:15:31] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...cope.nvim/lua/telescope/finders/async_oneshot_finder.lua:48: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:15:32] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...cope.nvim/lua/telescope/finders/async_oneshot_finder.lua:48: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:15:32] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...cope.nvim/lua/telescope/finders/async_oneshot_finder.lua:48: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:15:32] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...cope.nvim/lua/telescope/finders/async_oneshot_finder.lua:48: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:15:32] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...cope.nvim/lua/telescope/finders/async_oneshot_finder.lua:48: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:15:32] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...cope.nvim/lua/telescope/finders/async_oneshot_finder.lua:48: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:15:32] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...cope.nvim/lua/telescope/finders/async_oneshot_finder.lua:48: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:15:33] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...cope.nvim/lua/telescope/finders/async_oneshot_finder.lua:48: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:15:33] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...cope.nvim/lua/telescope/finders/async_oneshot_finder.lua:48: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:17:06] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...cope.nvim/lua/telescope/finders/async_oneshot_finder.lua:48: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:17:13] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...cope.nvim/lua/telescope/finders/async_oneshot_finder.lua:48: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:17:14] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...cope.nvim/lua/telescope/finders/async_oneshot_finder.lua:48: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:17:15] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...cope.nvim/lua/telescope/finders/async_oneshot_finder.lua:48: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:17:15] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...cope.nvim/lua/telescope/finders/async_oneshot_finder.lua:48: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:17:15] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...cope.nvim/lua/telescope/finders/async_oneshot_finder.lua:48: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:17:16] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...cope.nvim/lua/telescope/finders/async_oneshot_finder.lua:48: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:18:21] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...cope.nvim/lua/telescope/finders/async_oneshot_finder.lua:48: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:18:23] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...cope.nvim/lua/telescope/finders/async_oneshot_finder.lua:48: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:18:23] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...cope.nvim/lua/telescope/finders/async_oneshot_finder.lua:48: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:18:23] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...cope.nvim/lua/telescope/finders/async_oneshot_finder.lua:48: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:18:23] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...cope.nvim/lua/telescope/finders/async_oneshot_finder.lua:48: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:18:23] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...cope.nvim/lua/telescope/finders/async_oneshot_finder.lua:48: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:18:23] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...cope.nvim/lua/telescope/finders/async_oneshot_finder.lua:48: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:20:28] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...elescope.nvim/lua/telescope/finders/async_job_finder.lua:49: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:20:31] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...elescope.nvim/lua/telescope/finders/async_job_finder.lua:49: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:20:31] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...elescope.nvim/lua/telescope/finders/async_job_finder.lua:49: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:20:32] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...elescope.nvim/lua/telescope/finders/async_job_finder.lua:49: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:20:35] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...elescope.nvim/lua/telescope/finders/async_job_finder.lua:49: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:20:35] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...elescope.nvim/lua/telescope/finders/async_job_finder.lua:49: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:20:35] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...elescope.nvim/lua/telescope/finders/async_job_finder.lua:49: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:20:37] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...elescope.nvim/lua/telescope/finders/async_job_finder.lua:49: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:20:37] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...elescope.nvim/lua/telescope/finders/async_job_finder.lua:49: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:20:38] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...elescope.nvim/lua/telescope/finders/async_job_finder.lua:49: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:20:38] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...elescope.nvim/lua/telescope/finders/async_job_finder.lua:49: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:20:39] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...elescope.nvim/lua/telescope/finders/async_job_finder.lua:49: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:20:39] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...elescope.nvim/lua/telescope/finders/async_job_finder.lua:49: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:20:41] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...elescope.nvim/lua/telescope/finders/async_job_finder.lua:49: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:20:43] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...elescope.nvim/lua/telescope/finders/async_job_finder.lua:49: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:20:43] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...elescope.nvim/lua/telescope/finders/async_job_finder.lua:49: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:20:43] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...elescope.nvim/lua/telescope/finders/async_job_finder.lua:49: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:20:44] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...elescope.nvim/lua/telescope/finders/async_job_finder.lua:49: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:20:45] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...elescope.nvim/lua/telescope/finders/async_job_finder.lua:49: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:20:45] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...elescope.nvim/lua/telescope/finders/async_job_finder.lua:49: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:20:45] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...elescope.nvim/lua/telescope/finders/async_job_finder.lua:49: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
+[WARN  2025-03-24 오전 12:20:45] C:/Users/fnwin/AppData/Local/nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:498: Finder failed with msg:  .../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: rg: Executable not found
+stack traceback:
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:298: in function 'convert_opts'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:18: in function 'new'
+	.../Local/nvim-data/lazy/telescope.nvim/lua/telescope/_.lua:64: in function 'spawn'
+	...elescope.nvim/lua/telescope/finders/async_job_finder.lua:49: in function 'finder'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:494: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493>
+	[C]: in function 'pcall'
+	.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:493: in function <.../nvim-data/lazy/telescope.nvim/lua/telescope/pickers.lua:454>
